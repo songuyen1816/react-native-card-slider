@@ -1,0 +1,10 @@
+{
+  "name": "react-native-card-slider",
+  "version": "0.0.1",
+  "description": "A high performance card slider for react native",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.67.4"
+  }
+}
